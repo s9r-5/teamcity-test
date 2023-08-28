@@ -1,2 +1,2 @@
 echo "from git"
-sleep 20
+sleep 90
